@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/ADGE_project/ProyFinADGE-Pred_Acc_US/mlruns/509843481335423829/f99904c68a1e45e29fb0c5966e1d58fd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '509843481335423829'
+lifecycle_stage: active
+run_id: f99904c68a1e45e29fb0c5966e1d58fd
+run_name: nervous-deer-638
+run_uuid: f99904c68a1e45e29fb0c5966e1d58fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748916126931
+status: 1
+tags: []
+user_id: root

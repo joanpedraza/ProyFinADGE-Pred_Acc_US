@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/ADGE_project/ProyFinADGE-Pred_Acc_US/mlruns/663207084550915884/dbe48407313b43e3974416211917368c/artifacts
+end_time: 1748915962623
+entry_point_name: ''
+experiment_id: '663207084550915884'
+lifecycle_stage: active
+run_id: dbe48407313b43e3974416211917368c
+run_name: nimble-doe-316
+run_uuid: dbe48407313b43e3974416211917368c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748915958453
+status: 3
+tags: []
+user_id: root

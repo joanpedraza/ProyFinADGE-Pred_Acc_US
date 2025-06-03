@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/ADGE_project/ProyFinADGE-Pred_Acc_US/mlruns/509843481335423829/4dd5593e67ac4b91b3486f873940f651/artifacts
+end_time: 1748916114774
+entry_point_name: ''
+experiment_id: '509843481335423829'
+lifecycle_stage: active
+run_id: 4dd5593e67ac4b91b3486f873940f651
+run_name: Año_2017
+run_uuid: 4dd5593e67ac4b91b3486f873940f651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748916113198
+status: 3
+tags: []
+user_id: root

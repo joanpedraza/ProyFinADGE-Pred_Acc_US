@@ -1,0 +1,6 @@
+artifact_location: file:///workspace/ADGE_project/ProyFinADGE-Pred_Acc_US/mlruns/663207084550915884
+creation_time: 1748915958451
+experiment_id: '663207084550915884'
+last_update_time: 1748915958451
+lifecycle_stage: active
+name: Accidents_XGBoost_With_Climate
